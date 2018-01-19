@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/k1bs/electron-quickstart/issues"
   },
-  "homepage": "https://github.com/k1bs/electron-quickstart#readme"
+  "homepage": "https://github.com/k1bs/electron-quickstart#readme",
+  "dependencies": {
+    "electron": "^1.7.10"
+  }
 }
